@@ -1,0 +1,58 @@
+.resume .resume-item {
+  background: #fff;
+  margin-top: 30px;
+  max-height: 240px;
+  overflow: hidden;
+}
+/* .resume [class^="col"]:first-child .resume-item {
+  margin-top: 0 !important;
+} */
+.resume .resume-item h2 {
+  font-size: 16px;
+  font-weight: 700;
+  margin: 0 0 10px;
+}
+
+.resume .resume-item span {
+  color: #666;
+  display: block;
+  font-size: 12px;
+  font-weight: 300;
+  margin: 0 0 10px;
+}
+
+.resume .resume-item p {
+  line-height: 20px;
+  margin-bottom: 0px;
+}
+#projects p {
+  margin-bottom: 10px;
+}
+#languages .resume-item {
+  display: flex;
+}
+#languages .resume-item b {
+  padding-left: 8px;
+  padding-right: 8px;
+}
+@media only screen and (max-width: 767px) {
+  .welcome {
+    padding: 60px !important;
+  }
+
+  .welcome .quote {
+    width: initial;
+  }
+
+  .facts .fact-item {
+    margin-bottom: 20px;
+  }
+
+  .resume .resume-item {
+    margin-top: 30px !important;
+  }
+
+  .blog .item .text {
+    margin-top: 25px;
+  }
+}

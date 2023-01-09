@@ -1,0 +1,13 @@
+[
+    {
+        "company":"SPEEDYLİ",
+        "title":"Backend Developer",
+        "date":"FEBRUARY, 2022 - PRESENT",
+        "location":"New York, USA",
+        "bir":"Used for Backend development Java and Spring Boot Fraemworks.",
+        "iki":"Table created in PostgreSQL with Hibernate annotations.",
+        "uc":"Authentication and Authorization transactions created with Spring Security JWT.",
+        "dort":"Classes and packages were created in accordance with Solid Principles.",
+        "bes":"Worked in Agile Scrum team environment with high-tempo production cadence."
+    }
+]

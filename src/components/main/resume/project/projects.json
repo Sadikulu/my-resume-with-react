@@ -1,0 +1,16 @@
+[
+    {
+        "name":"Broders Property",
+        "title":"Reel Estate Project",
+        "bir":"• Real Estate project made using Java and Spring Boot.", 
+        "iki":"• Table created in MySQL with Hibernate annotations.", 
+        "uc":"• Authentication and Authorization transactions created with Spring Security JWT.", 
+        "dort":"• Connected with database JPA Repository with the help of Spring Boot.", 
+        "bes":"• Generated methods run in Postman."
+    },
+    {
+        "name":"My Other Projects",
+        "title":"My other projects are on my GitHub profile."
+    }
+    
+]
