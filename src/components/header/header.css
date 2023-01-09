@@ -6,6 +6,7 @@
   width: 260px;
   z-index: 5;
 }
+
 @media only screen and (max-width: 991px) {
   .header {
     -ms-transform: translateX(-260px);
@@ -15,5 +16,24 @@
     -moz-transition: all 0.3s ease-in-out;
     -o-transition: all 0.3s ease-in-out;
     transition: all 0.3s ease-in-out;
+  }
+}
+
+@media only screen and (max-height: 600px) {
+  .header .name {
+    margin: 15px 0;
+  }
+
+  .header .main-nav ul li {
+    padding-bottom: 10px;
+  }
+
+  .header .social-icons {
+    margin: 0 0 15px;
+  }
+
+  .header .copyright {
+    bottom: -18px;
+    position: relative;
   }
 }

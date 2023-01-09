@@ -9,6 +9,9 @@ const MainNav = () => {
           <a href="#about">About Me</a>
         </li>
         <li>
+          <a href="#skills">Skills</a>
+        </li>
+        <li>
           <a href="#experience">Expereince</a>
         </li>
         <li>

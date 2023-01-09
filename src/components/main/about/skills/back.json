@@ -1,0 +1,18 @@
+[
+    {"tool": "Java"},
+    {"tool": "Spring Boot"},
+    {"tool": "Spring MVC"},
+    {"tool": "Hibernate"},
+    {"tool": "JDBC"},
+    {"tool": "PostgreSQL"},
+    {"tool": "MySQL"},
+    {"tool": "MongoDB"},
+    {"tool": "Microservices"},
+    {"tool": "Git-Github"},
+    {"tool": "Solid Principles"},
+    {"tool": "Agile (SCRUM)"},
+    {"tool": "Group Work"},
+    {"tool": "Postman"},
+    {"tool": "Docker"}
+    
+]

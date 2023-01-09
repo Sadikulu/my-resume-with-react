@@ -28,6 +28,17 @@
 #projects p {
   margin-bottom: 10px;
 }
+#projects a {
+  display: inline-block;
+}
+#projects h2 {
+  display: inline-block;
+  margin-right: 1rem;
+}
+#projects a:hover {
+  text-decoration: none;
+  color: red;
+}
 #languages .resume-item {
   display: flex;
 }

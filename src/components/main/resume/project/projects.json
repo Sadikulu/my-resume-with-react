@@ -1,5 +1,6 @@
 [
     {
+        "link":"https://github.com/Sadikulu/brothers_property",
         "name":"Broders Property",
         "title":"Reel Estate Project",
         "bir":"• Real Estate project made using Java and Spring Boot.", 
@@ -9,6 +10,7 @@
         "bes":"• Generated methods run in Postman."
     },
     {
+        "link":"https://github.com/Sadikulu?tab=repositories",
         "name":"My Other Projects",
         "title":"My other projects are on my GitHub profile."
     }
