@@ -4,7 +4,6 @@ import Section from "../../section/section";
 import "./skills.css";
 import backs from "./back.json";
 import fronts from "./front.json";
-import devs from "./development.json";
 import Dev from "./dev";
 
 const Skills = () => {
